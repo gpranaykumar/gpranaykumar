@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://res.cloudinary.com/pranaykumar/image/upload/v1662134862/ban_llgt6c.gif)](https://gpranaykumar.ml)
+[![MasterHead](https://res.cloudinary.com/pranaykumar/image/upload/v1662134862/ban_llgt6c.gif)](https://gpranaykumar.vercel.app/)
 <h1 align="center">Hi 👋, I'm Pranay Kumar</h1>
 <h3 align="center">I'm self-taught Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/pranaykumar/image/upload/v1662134509/coding_towmn4.gif" >
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **everything 🤣**
 
-- 👨‍💻 All of my projects are available at [gpranaykumar.ml](https://gpranaykumar.ml)
+- 👨‍💻 All of my projects are available at [gpranaykumar.vercel.app](https://gpranaykumar.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
